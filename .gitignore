@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 Data/
+Logs/
 # Distribution / packaging
 .Python
 build/
